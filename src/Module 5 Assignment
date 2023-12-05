@@ -1,1 +1,12 @@
-
+In this assignment data aggregation for extracting insights is as follows: 
+1)  Created 2 tables. 
+The first table shows how many salespeople have attrition.  
+Store this information in a column called “attrition”.  
+The second table counts how many salespeople have no attrition.  
+Store this information in a column called “Non Attrition”.
+2) Created 3 statistics tables (average, min, max) showing the monthly income for:  
+all salespeople, those with attrition and those without attrition.  
+For each table, label the columns “average_monthly_income”, “min_monthly_income”, and “max_monthly_income”.
+3)  Created 2 tables containing the monthly income and count of salespeople making that monthly income for: 
+salespeople with attrition and salespeople without attrition.  
+Label the columns as: “monthlyincome” and “count”
