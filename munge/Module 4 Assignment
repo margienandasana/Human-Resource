@@ -1,1 +1,8 @@
-
+In this assignment, simple transformations on data are performed thru following steps
+1)	
+a) Create a new table for the analysis called “employee_sales”.  
+b) Load the table “employee” into this table.
+c) Select these columns: Attrition, Department, JobSatisfaction & MonthlyIncome.   
+2) Round the data found in the “MonthlyIncome” column to the nearest $1000.  
+3) Filter the data to only look at those items in the “Sales Department”.
+4) Order the data by “JobSatisfaction” from highest to lowest. 
